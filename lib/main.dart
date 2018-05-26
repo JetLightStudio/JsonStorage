@@ -21,7 +21,7 @@ class HomeState extends State<Home> {
 
   File jsonFile;
   Directory dir;
-  String fileName = "myJSONFile2.json";
+  String fileName = "myJSONFile.json";
   bool fileExists = false;
   Map<String, dynamic> fileContent;
 
